@@ -22,9 +22,16 @@ const Card = ({
     <div className="topic-card">
       {photo && (
         <div className="img-wrapper">
+          {/* Safely require the image. If it's missing the require will be caught and the avatar fallback used. */}
           <img
             alt="domain"
-            src={require(`../../../data/${id}/images/${photo}`)}
+            src={(() => {
+              try {
+                return require(`../../../data/${id}/images/${photo}`);
+              } catch (e) {
+                return require("../../../assets/common/avatar.jpg");
+              }
+            })()}
             onError={({ currentTarget }) => {
               currentTarget.onerror = null;
               currentTarget.src = require("../../../assets/common/avatar.jpg");
