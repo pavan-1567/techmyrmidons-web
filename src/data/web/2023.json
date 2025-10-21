@@ -1,0 +1,34 @@
+{
+   "2023": [
+      {
+        "title": "Service Workers & PWAs",
+        "description": "Progressive Web Apps and service workers for reliable, offline-capable web experiences with background sync and push notifications.",
+        "url": "https://web.dev/progressive-web-apps/",
+        "morelink": "PWA"
+      },
+      {
+        "title": "React Server Components",
+        "description": "Server-rendered components that allow sending less JavaScript to the client and improve initial load performance.",
+        "url": "https://reactjs.org/docs/react-api.html#reactservercomponents",
+        "morelink": "RSC"
+      },
+      {
+        "title": "Tailwind CSS",
+        "description": "Utility-first CSS framework for rapidly building custom designs without leaving your HTML.",
+        "url": "https://tailwindcss.com/",
+        "morelink": "Tailwind"
+      },
+      {
+        "title": "WebAssembly (Wasm)",
+        "description": "High-performance binary format enabling languages like Rust, C, and Go to run in the browser for compute-intensive tasks.",
+        "url": "https://webassembly.org/",
+        "morelink": "Wasm"
+      },
+      {
+        "title": "HTTP/3 & QUIC",
+        "description": "Faster, more reliable transport with built-in multiplexing and reduced latency compared to HTTP/2.",
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/QUIC",
+        "morelink": "HTTP3"
+      }
+   ]
+}
