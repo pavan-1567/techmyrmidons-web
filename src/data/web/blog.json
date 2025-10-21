@@ -1,78 +1,104 @@
-  {
-    "blog": [
-
-  {
-    "blog": "https://blog.phpdeveloper.org/",
-    "author": "BLOG.PHPDEV"
-  },
-
-  {
-    "blog": "https://www.bacancytechnology.com/blog/full-stack",
-    "author": "BACANCY"
-  },
-
-  {
-    "blog": "https://web.dev/blog",
-    "author": "Web.dev by Google"
-  },
-
-  {
-    "blog": "https://chrisfrew.in",
-    "author": "Chris' Full Stack Blog"
-  },
-
-  {
-    "blog": "https://fullstackopen.com/en/",
-    "author": "Full Stack Open by University of Helsinki"
-  },
-
-  {
-    "blog": "http://fabien.potencier.org/",
-    "author": "Fabien Potencier"
-  },
-
-  {
-    "blog": "https://laravel-news.com/",
-    "author": "Laravel News"
-  },
-
-  {
-    "blog": "https://www.colinodell.com/",
-    "author": "Colin O'Dell"
-  },
-
-  {
-    "blog": "https://github.com/php",
-    "author": "github"
-  },
-  {
-    "blog": "https://www.digitalocean.com/community/tutorials/",
-    "author": "DigitalOcean"
-  },
-  {
-    "blog": "https://mattstauffer.co/",
-    "author": "Matt Stauffer"
-  },
-
-  {
-    "blog": "https://davidwalsh.name/",
-    "author": "David Walsh Blog"
-  },
-
-  {
-    "blog": "https://www.smashingmagazine.com/",
-    "author": "Smashing Magazine"
-  },
-
-  {
-    "blog": "https://stackoverflow.blog/web-development//",
-    "author": "Stack Overflow"
-  },
-
-  {
-    "blog": "https://dev.to/t/fullstack",
-   "author": "Dev.to"
-  }
-
+{
+  "blog": [
+    {
+      "blog": "https://blog.phpdeveloper.org/",
+      "author": "BLOG.PHPDEV"
+    },
+    {
+      "blog": "https://www.bacancytechnology.com/blog/full-stack",
+      "author": "BACANCY"
+    },
+    {
+      "blog": "https://web.dev/blog",
+      "author": "Web.dev by Google"
+    },
+    {
+      "blog": "https://chrisfrew.in",
+      "author": "Chris' Full Stack Blog"
+    },
+    {
+      "blog": "https://fullstackopen.com/en/",
+      "author": "Full Stack Open by University of Helsinki"
+    },
+    {
+      "blog": "http://fabien.potencier.org/",
+      "author": "Fabien Potencier"
+    },
+    {
+      "blog": "https://laravel-news.com/",
+      "author": "Laravel News"
+    },
+    {
+      "blog": "https://www.colinodell.com/",
+      "author": "Colin O'Dell"
+    },
+    {
+      "blog": "https://github.com/php",
+      "author": "github"
+    },
+    {
+      "blog": "https://www.digitalocean.com/community/tutorials/",
+      "author": "DigitalOcean"
+    },
+    {
+      "blog": "https://mattstauffer.co/",
+      "author": "Matt Stauffer"
+    },
+    {
+      "blog": "https://davidwalsh.name/",
+      "author": "David Walsh Blog"
+    },
+    {
+      "blog": "https://www.smashingmagazine.com/",
+      "author": "Smashing Magazine"
+    },
+    {
+      "blog": "https://stackoverflow.blog/web-development/",
+      "author": "Stack Overflow"
+    },
+    {
+      "blog": "https://dev.to/t/fullstack",
+      "author": "Dev.to"
+    },
+    {
+      "blog": "https://www.toptal.com/developers/blog",
+      "author": "Toptal Engineering Blog"
+    },
+    {
+      "blog": "https://css-tricks.com/",
+      "author": "CSS-Tricks"
+    },
+    {
+      "blog": "https://dzone.com/web-development-tutorials-tools-news",
+      "author": "DZone Web Development"
+    },
+    {
+      "blog": "https://www.sitepoint.com/web-development/",
+      "author": "SitePoint"
+    },
+    {
+      "blog": "https://www.oreilly.com/radar/topics/web-development/",
+      "author": "O'Reilly Web Dev"
+    },
+    {
+      "blog": "https://www.programming.blog/",
+      "author": "Programming Blog"
+    },
+    {
+      "blog": "https://dev.to/t/javascript",
+      "author": "Dev.to JavaScript"
+    },
+    {
+      "blog": "https://frontendmasters.com/blog/",
+      "author": "Frontend Masters Blog"
+    },
+    {
+      "blog": "https://www.codementor.io/blog",
+      "author": "Codementor Blog"
+    },
+    {
+      "blog": "https://www.smile.eu/blog/",
+      "author": "Smile Web Dev Blog"
+    }
   ]
 }

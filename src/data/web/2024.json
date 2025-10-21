@@ -1,0 +1,34 @@
+{
+   "2024": [
+      {
+        "title": "AI-powered Frontend",
+        "description": "Integrating on-device and server-side AI to enhance UX: code generation, layout suggestions, and accessibility improvements.",
+        "url": "https://developer.mozilla.org/",
+        "morelink": "AI-Frontend"
+      },
+      {
+        "title": "Serverless Edge Functions",
+        "description": "Deploying lightweight serverless functions at edge locations for personalization and low-latency compute.",
+        "url": "https://vercel.com/docs/concepts/functions/edge-functions",
+        "morelink": "EdgeFunctions"
+      },
+      {
+        "title": "Typed CSS (CSS Modules / CSS-in-TypeScript)",
+        "description": "Stronger typing for styles to catch errors at compile-time and enable better editor tooling.",
+        "url": "https://css-tricks.com/",
+        "morelink": "TypedCSS"
+      },
+      {
+        "title": "Privacy-preserving Analytics",
+        "description": "Analytics approaches that avoid cross-site trackers, leveraging aggregated or differential-privacy techniques.",
+        "url": "https://www.eff.org/",
+        "morelink": "PrivacyAnalytics"
+      },
+      {
+        "title": "Micro-frontend Architectures",
+        "description": "Composing independently deployable frontend modules to scale teams and codebases while preserving UX cohesion.",
+        "url": "https://martinfowler.com/articles/micro-frontends.html",
+        "morelink": "Microfrontends"
+      }
+   ]
+}

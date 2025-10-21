@@ -1,82 +1,129 @@
 {
   "follow": [
-
     {
-      "followLink":"https://twitter.com/brad_frost",
-      "photo":"BradFrost.jpg",
-      "name":"Brad Frost"
+      "followLink": "https://twitter.com/brad_frost",
+      "photo": "BradFrost.jpg",
+      "name": "Brad Frost"
     },
-
     {
-      "followLink":"https://twitter.com/lukew",
-      "photo":"LukeWroblewski.jpg",
-      "name":"Luke Wroblewski"
+      "followLink": "https://twitter.com/lukew",
+      "photo": "LukeWroblewski.jpg",
+      "name": "Luke Wroblewski"
     },
-
     {
-      "followLink":"https://twitter.com/akrabat",
-      "photo":"RobAllen.jpg",
-      "name":"Rob Allen"
+      "followLink": "https://twitter.com/akrabat",
+      "photo": "RobAllen.jpg",
+      "name": "Rob Allen"
     },
-
     {
-      "followLink":"https://twitter.com/s_bergmann",
-      "photo":"SebastianBergmann.jpg",
-      "name":"Sebastian Bergmann"
+      "followLink": "https://twitter.com/s_bergmann",
+      "photo": "SebastianBergmann.jpg",
+      "name": "Sebastian Bergmann"
     },
-
     {
-      "followLink":"https://twitter.com/seldaek",
-      "photo":"JordiBoggiano.jpg",
-      "name":"Jordi Boggiano"
+      "followLink": "https://twitter.com/seldaek",
+      "photo": "JordiBoggiano.jpg",
+      "name": "Jordi Boggiano"
     },
-
     {
-      "followLink":"https://twitter.com/ircmaxell",
-      "photo":"Anthony.jpg",
-      "name":"Anthony"
+      "followLink": "https://twitter.com/ircmaxell",
+      "photo": "Anthony.jpg",
+      "name": "Anthony Ferrara"
     },
-
     {
-      "followLink":"https://twitter.com/andigutmans",
-      "photo":"AndiGutmans.jpg",
-      "name":"Andi Gutmans"
+      "followLink": "https://twitter.com/andigutmans",
+      "photo": "AndiGutmans.jpg",
+      "name": "Andi Gutmans"
     },
-
     {
-      "followLink":"https://twitter.com/mwop",
-      "photo":"weierophinney.jpg",
-      "name":"weierophinney"
+      "followLink": "https://twitter.com/mwop",
+      "photo": "weierophinney.jpg",
+      "name": "Weierophinney"
     },
-
     {
-      "followLink":"https://twitter.com/taylorotwell",
-      "photo":"TaylorOtwell.jpg",
-      "name":"Taylor Otwell"
+      "followLink": "https://twitter.com/taylorotwell",
+      "photo": "TaylorOtwell.jpg",
+      "name": "Taylor Otwell"
     },
-
     {
-      "followLink":"https://twitter.com/derickr",
-      "photo":"DerickRethans.jpg",
-      "name":"Derick Rethans"
+      "followLink": "https://twitter.com/derickr",
+      "photo": "DerickRethans.jpg",
+      "name": "Derick Rethans"
     },
-
     {
-      "followLink":"https://twitter.com/lsmith",
-      "photo":"LukasKahweSmith.jpg",
-      "name":"Lukas KahweSmith"
+      "followLink": "https://twitter.com/lsmith",
+      "photo": "LukasKahweSmith.jpg",
+      "name": "Lukas Kahwe Smith"
     },
-
     {
-      "followLink":"https://twitter.com/davidwalshblog",
-      "photo":"DavidWalsh.jpg",
-      "name":"David Walsh"
+      "followLink": "https://twitter.com/davidwalshblog",
+      "photo": "DavidWalsh.jpg",
+      "name": "David Walsh"
     },
-
     {
-      "followLink":"https://twitter.com/juantreminio",
-      "photo":"JuanTreminio.jpg",
-      "name":"Juan Treminio"
+      "followLink": "https://twitter.com/juantreminio",
+      "photo": "JuanTreminio.jpg",
+      "name": "Juan Treminio"
+    },
+    {
+      "followLink": "https://twitter.com/addyosmani",
+      "photo": "AddyOsmani.jpg",
+      "name": "Addy Osmani"
+    },
+    {
+      "followLink": "https://twitter.com/sarah_edo",
+      "photo": "SarahDrasner.jpg",
+      "name": "Sarah Drasner"
+    },
+    {
+      "followLink": "https://twitter.com/dan_abramov",
+      "photo": "DanAbramov.jpg",
+      "name": "Dan Abramov"
+    },
+    {
+      "followLink": "https://twitter.com/kentcdodds",
+      "photo": "KentCDodds.jpg",
+      "name": "Kent C. Dodds"
+    },
+    {
+      "followLink": "https://twitter.com/moshhamedani",
+      "photo": "MoshHamedani.jpg",
+      "name": "Mosh Hamedani"
+    },
+    {
+      "followLink": "https://twitter.com/wesbos",
+      "photo": "WesBos.jpg",
+      "name": "Wes Bos"
+    },
+    {
+      "followLink": "https://twitter.com/chriscoyier",
+      "photo": "ChrisCoyier.jpg",
+      "name": "Chris Coyier"
+    },
+    {
+      "followLink": "https://twitter.com/rachelandrew",
+      "photo": "RachelAndrew.jpg",
+      "name": "Rachel Andrew"
+    },
+    {
+      "followLink": "https://twitter.com/jensimmons",
+      "photo": "JenSimmons.jpg",
+      "name": "Jen Simmons"
+    },
+    {
+      "followLink": "https://twitter.com/leaverou",
+      "photo": "LeaVerou.jpg",
+      "name": "Lea Verou"
+    },
+    {
+      "followLink": "https://twitter.com/una",
+      "photo": "UnaKravets.jpg",
+      "name": "Una Kravets"
+    },
+    {
+      "followLink": "https://twitter.com/paul_irish",
+      "photo": "PaulIrish.jpg",
+      "name": "Paul Irish"
     }
   ]
 }
