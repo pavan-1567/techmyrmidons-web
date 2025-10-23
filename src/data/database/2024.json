@@ -1,0 +1,49 @@
+{
+    "2024": [
+        {
+            "title": "PostgreSQL 16 Release",
+            "description": "PostgreSQL 16 introduces significant improvements in parallel query execution, logical replication performance, and JSON/JSONB operations. New features include table access method API and enhanced pg_stat_statements.",
+            "url": "https://www.postgresql.org/about/news/postgresql-16-released-2715/"
+        },
+        {
+            "title": "MongoDB 7.0 with Queryable Encryption",
+            "description": "MongoDB 7.0 brings expanded queryable encryption capabilities, allowing more operations on encrypted data, plus enhanced time series collections and improved analytics integrations.",
+            "url": "https://www.mongodb.com/products/queryable-encryption"
+        },
+        {
+            "title": "DuckDB's Rising Popularity",
+            "description": "DuckDB gains widespread adoption as an embedded analytical database, offering OLAP capabilities with minimal setup. Version 0.9 adds window functions, improved Arrow integration, and better JSON handling.",
+            "url": "https://duckdb.org/"
+        },
+        {
+            "title": "Vector Search in Major Databases",
+            "description": "PostgreSQL (with pgvector), MongoDB, and Redis implement efficient vector similarity search capabilities, making it easier to integrate AI embeddings directly in traditional databases.",
+            "url": "https://github.com/pgvector/pgvector"
+        },
+        {
+            "title": "CockroachDB Serverless GA",
+            "description": "CockroachDB Serverless becomes generally available, offering elastic scaling and pay-per-use pricing for distributed SQL workloads, with improved multi-region capabilities.",
+            "url": "https://www.cockroachlabs.com/product/serverless/"
+        },
+        {
+            "title": "MySQL HeatWave on AWS",
+            "description": "Oracle expands MySQL HeatWave to AWS, bringing its in-memory query acceleration and machine learning capabilities to the platform, competing with Aurora and other cloud databases.",
+            "url": "https://www.mysql.com/heatwave/"
+        },
+        {
+            "title": "SQLite Extensions Ecosystem",
+            "description": "SQLite's extension ecosystem grows with litestream for replication, sqlite-utils for CLI operations, and litefs for distributed filesystems, making it more viable for production.",
+            "url": "https://sqlite.org/extensions.html"
+        },
+        {
+            "title": "Elasticsearch 8.12 LLM Features",
+            "description": "Elasticsearch 8.12 introduces built-in language model integration, semantic search capabilities, and enhanced vector search functionality for AI-powered search applications.",
+            "url": "https://www.elastic.co/elasticsearch/"
+        },
+        {
+            "title": "Redis Stack Modules",
+            "description": "Redis Stack consolidates popular modules (JSON, Search, Graph, TimeSeries) into a comprehensive package, simplifying deployment of Redis as a multi-model database.",
+            "url": "https://redis.io/docs/stack/"
+        }
+    ]
+}

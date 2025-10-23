@@ -89,17 +89,21 @@
       "technology": "Creative Design",
       "logo": "cdesign.png",
       "folderName": "creative-design"
-    }
-    ,{
+    },
+    {
       "technology": "UI/UX",
       "logo": "uiux.png",
       "folderName": "uiux"
-    }
-    ,{
+    },
+    {
       "technology": "Creative Design",
       "logo": "cdesign.png",
       "folderName": "creativedesign"
-
+    },
+    {
+      "technology": "Database",
+      "logo": "database.jpg",
+      "folderName": "database"
     }
   ]
 }
