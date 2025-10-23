@@ -95,12 +95,18 @@
       "logo": "cdesign.png",
       "folderName": "creativedesign"
     }
-    ,{
+    ,
+    {
+      "technology": "Data Science",
+      "logo": "datascience.png",
+      "folderName": "DataScience"
+    },
+    {
       "technology": "UI/UX",
       "logo": "uiux.png",
       "folderName": "uiux"
-    }
-    ,{
+    },
+    {
       "technology": "Creative Design",
       "logo": "cdesign.png",
       "folderName": "creativedesign"
