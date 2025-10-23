@@ -61,11 +61,23 @@ const Landing = () => {
               description="DevOps is a set of practices that combines software development and IT operations."
             />
             <Card
+              image="/assets/landing/web.png"
+              name="Web"
+              link="/web"
+              description="Web refers to the interconnected system of information and resources accessed through the internet using browsers."
+            />
+            <Card
               image="/assets/landing/frontend.png"
               name="Front-End"
               link="/frontend"
               description="
             The term Front-End mainly referes to the User Interface which an user view and interacts with and its working"
+            />
+            <Card 
+              image="/assets/landing/backend.png" 
+              name="Back-End" 
+              link="/backend"
+              description="Backend development refers to the server-side aspect of web development, focusing on creating and managing the server logic, databases, and APIs"
             />
             <Card
               image="/assets/landing/blockchain.png"
@@ -127,7 +139,7 @@ const Landing = () => {
             <Card
               image="/assets/landing/cdesign.png"
               name="Creative Design"
-              link="/creative-design"
+              link="/creativedesign"
               description="Creative Design helps to portray ideas in the best fashion and requires an expertise in designing and a certain level of creativity. "
             />
             <Card
@@ -148,6 +160,26 @@ const Landing = () => {
               name="Database"
               link="/database"
               description="Databases are the backbone of modern applications, providing structured ways to store, retrieve, and manage data. From SQL to NoSQL, they power everything from social media to financial systems."
+            <Card
+              image="/assets/landing/embedded-system.png"
+              name="Embedded Systems"
+              link="/embedded-system"
+              description="An embedded system is a computer system designed to perform tasks within a larger mechanical or electronic device."
+              
+            />
+            <Card
+              image="/assets/landing/robotics.png"
+              name="Robotics & Automation"
+              link="/robotics-automation"
+              description="Robotics & Automation is the integration of programmable machines with automated systems to perform tasks."
+              
+            />
+            <Card
+              image="/assets/landing/space-technology.png"
+              name="Space Technology"
+              link="/space-technology"
+              description="Space technology is the collection of advanced engineering systems, tools, and methods developed to explore Earth’s atmosphere—including satellites, spacecraft, launch vehicles."
+              
             />
           </div>
         </div>

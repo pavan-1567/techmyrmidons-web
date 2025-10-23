@@ -1,28 +1,7 @@
 {
-  "blog": [
-    {
-      "blog": "https://www.appcues.com/blog",
-      "author": "AppCues Blog"
-    },
-    {
-      "blog": "https://www.productplan.com/blog/",
-      "author": "ProductPlan"
-    },
-    {
-      "blog": "https://quantum.country/",
-      "author": "Growth.Design"
-    },
-    {
-      "blog": "https://growth.design",
-      "author": "Quantum Machine Learning MOOC "
-    },
-    {
-      "blog": "https://amplitude.com/blog",
-      "author": "Amplitude Blog"
-    },
-    {
-      "blog": "https://bestpracticer.com/topic/product-management",
-      "author": "Best Practicer"
-    }
+  "years": [
+    { "year": "2023", "url": "/data/pm/product-management-blogs/2023.json" },
+    { "year": "2024", "url": "/data/pm/product-management-blogs/2024.json" },
+    { "year": "2025", "url": "/data/pm/product-management-blogs/2025.json" }
   ]
 }
