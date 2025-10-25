@@ -93,6 +93,12 @@ const Landing = () => {
               description="AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks."
             />
             <Card
+              image="/assets/landing/ai.png"
+              name="Data Science"
+              link="/DataScience"
+              description="Data Science combines statistics, programming, and domain knowledge to extract insights from data."
+            />
+            <Card
               image="/assets/landing/arvr.png"
               name="AR/VR"
               link="/arvr"
@@ -153,6 +159,13 @@ const Landing = () => {
               name="Foss"
               link="/foss"
               description="FOSS (Free and Open Source Software) is software that anyone can use, modify, and share freely. It promotes collaboration, transparency, and community-driven development."
+            />
+
+            <Card
+              image="/assets/landing/database.png"
+              name="Database"
+              link="/database"
+              description="Databases are the backbone of modern applications, providing structured ways to store, retrieve, and manage data. From SQL to NoSQL, they power everything from social media to financial systems."
             />
             <Card
               image="/assets/landing/embedded-system.png"
