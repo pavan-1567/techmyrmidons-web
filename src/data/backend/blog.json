@@ -38,7 +38,13 @@
     },
     {
       "blog": "https://engineering.atspotify.com/",
-      "author": "Spotify Engineering"
+      "author": "Spotify Engineering",
+       "blog": "https://djangostars.com/blog/tag/backend/",
+      "author": "Djangostars"
+    },
+    {
+      "blog":"https://blog.quastor.org/",
+      "author":"Quastor"
     }
   ]
 }

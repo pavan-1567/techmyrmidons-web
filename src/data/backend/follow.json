@@ -19,6 +19,17 @@
       "followLink": "https://x.com/bensigelman",
       "photo": "BenSigelman.png",
       "name": "Ben Sigelman"
+
+    },{
+      "followLink": "https://x.com/alexxubyte?lang=en",
+      "photo": "Alex_xu.jpg",
+      "name": "Alex Xu"
+    },
+    {
+      
+      "followLink": "https://www.husseinnasser.com/p/about-hussein.html",
+      "photo": "Hussein_Nasser.jpg",
+      "name": "Hussein Nasser"
     }
   ]
 }
