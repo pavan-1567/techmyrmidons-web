@@ -81,48 +81,40 @@
       "folderName": "marketing"
     },
     {
-      "technology": "foss",
+      "technology": "FOSS",
       "logo": "foss.png",
       "folderName": "foss"
     },
     {
-      "technology": "Cyber Security",
-      "logo": "cybersec.png",
-      "folderName": "cybersecurity"
+      "technology": "Creative Design",
+      "logo": "cdesign.png",
+      "folderName": "creativedesign"
+    }
+    ,
+    {
+      "technology": "Data Science",
+      "logo": "datascience.png",
+      "folderName": "DataScience"
     },
     {
-      "technology": "Creative Design",
-      "logo": "cdesign.png",
-      "folderName": "creativedesign"
-    }
-    ,{
-      "technology": "UI/UX",
-      "logo": "uiux.png",
-      "folderName": "uiux"
-    }
-    ,{
-      "technology": "Creative Design",
-      "logo": "cdesign.png",
-      "folderName": "creativedesign"
-
+      "technology": "Database",
+      "logo": "database.jpg",
+      "folderName": "database"
     },
     {
       "technology": "Embedded Systems",
       "logo": "embedded-system.png",
       "folderName": "embedded-system"
-
     },
     {
       "technology": "Robotics & Automation",
       "logo": "robotics.png",
       "folderName": "robotics-automation"
-
     },
     {
       "technology": "Space Technology",
       "logo": "space-technology.png",
       "folderName": "space-technology"
-
     }
   ]
 }
