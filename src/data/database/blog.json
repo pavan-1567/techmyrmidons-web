@@ -1,0 +1,24 @@
+{
+    "blog": [
+        {
+            "author": "PostgreSQL Wiki",
+            "blog": "https://wiki.postgresql.org/wiki/Main_Page"
+        },
+        {
+            "author": "MongoDB Developer Blog",
+            "blog": "https://www.mongodb.com/developer/learn/"
+        },
+        {
+            "author": "Redis Blog",
+            "blog": "https://redis.com/blog/"
+        },
+        {
+            "author": "Neo4j Developer Blog",
+            "blog": "https://neo4j.com/developer/blog/"
+        },
+        {
+            "author": "AWS Database Blog",
+            "blog": "https://aws.amazon.com/blogs/database/"
+        }
+    ]
+}

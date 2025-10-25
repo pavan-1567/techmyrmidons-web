@@ -1,0 +1,49 @@
+{
+    "2025": [
+        {
+            "title": "PostgreSQL 16+ ecosystem growth",
+            "description": "PostgreSQL continues to lead in extensibility and advanced features in 2025, with wider adoption of PostGIS, Timescale, and built-in columnar storage optimizations for analytical workloads.",
+            "url": "https://www.postgresql.org/"
+        },
+        {
+            "title": "Cloud-native managed databases (Aurora, Cloud Spanner, Cosmos DB)",
+            "description": "Managed cloud databases keep expanding features: serverless scaling, cross-region replication, and built-in analytics. Teams increasingly choose managed offerings to offload ops and gain global low-latency replicas.",
+            "url": "https://aws.amazon.com/rds/aurora"
+        },
+        {
+            "title": "Vector databases for embeddings (Qdrant, Milvus, Weaviate)",
+            "description": "Vector-first databases are mainstream in 2025 for semantic search and retrieval-augmented generation (RAG) pipelines, with improved hybrid indexes and filtering for production ML systems.",
+            "url": "https://qdrant.tech/"
+        },
+        {
+            "title": "Redis as a multi-model platform",
+            "description": "Redis evolves beyond caching into a multi-model platform (RedisJSON, RediSearch, RedisAI) used for real-time features, leaderboards, and lightweight vector search at the edge.",
+            "url": "https://redis.io/"
+        },
+        {
+            "title": "Time-series databases (TimescaleDB, InfluxDB)",
+            "description": "Time-series DBs gain traction for IoT, observability, and financial feeds; integration with stream processors and continuous aggregates becomes standard practice.",
+            "url": "https://www.timescale.com/"
+        },
+        {
+            "title": "Serverless and edge databases",
+            "description": "Serverless databases and edge-first sync solutions make offline-first and global-low-latency apps easier to build, with improved local-first conflict resolution and change streams.",
+            "url": "https://www.cloudflare.com/products/workers/"
+        },
+        {
+            "title": "Graph databases and knowledge graphs",
+            "description": "Graph DBs like Neo4j and open-source alternatives are used to connect knowledge, power recommendations, and support entity-centric RAG systems combining vectors + graphs.",
+            "url": "https://neo4j.com/"
+        },
+        {
+            "title": "Privacy-preserving storage patterns",
+            "description": "Encrypted fields, client-side encryption, and selective disclosure patterns become common for storing sensitive records, driven by regulations and zero-trust architectures.",
+            "url": "https://dataprivacy.github.io/"
+        },
+        {
+            "title": "Multimodel databases and converged storage",
+            "description": "Databases increasingly support multiple models (document, graph, vector, relational) in a single engine to reduce data movement and simplify architectures.",
+            "url": "https://www.mongodb.com/"
+        }
+    ]
+}
